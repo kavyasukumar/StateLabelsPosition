@@ -1,0 +1,29 @@
+{
+  "name": "statelabelsposition",
+  "version": "1.0.0",
+  "description": "Calculate best position for placing state labels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavyasukumar/StateLabelsPosition.git"
+  },
+  "keywords": [
+    "map",
+    "geojson",
+    "polylabel",
+    "states"
+  ],
+  "author": "Kavya Sukumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kavyasukumar/StateLabelsPosition/issues"
+  },
+  "homepage": "https://github.com/kavyasukumar/StateLabelsPosition#readme",
+  "devDependencies": {
+    "@turf/turf": "^5.1.6",
+    "polylabel": "^1.0.2"
+  }
+}
